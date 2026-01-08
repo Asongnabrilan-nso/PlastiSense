@@ -62,9 +62,9 @@
 #define I2C_SCL_PIN SCL      // SCL pin number (GPIO 7 on XIAO ESP32C3)
 #define I2C_SDA_PIN SDA      // SDA pin number (GPIO 6 on XIAO ESP32C3)
 
-#define LED_RED_PIN 5   // RED LED pin number
-#define LED_GREEN_PIN 4 // GREEN LED pin number
-#define LED_BLUE_PIN 3  // BLUE LED pin number
+#define LED_RED_PIN 9   // RED LED pin number
+#define LED_GREEN_PIN 10 // GREEN LED pin number
+#define LED_BLUE_PIN 8  // BLUE LED pin number
 #define LED_MEASUREMENT_PIN LED_GREEN_PIN
 #define LED_SERIAL_PIN LED_BLUE_PIN
 

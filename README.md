@@ -1,3 +1,5 @@
+Video: `https://youtu.be/B_dy0DAJdtQ`
+
 # PlastiSense
 
 PlastiSense is a precise **filament diameter sensor** powered by the **Seeed Studio XIAO ESP32-C3**. It is designed to monitor filament quality in real-time, offering a web-based dashboard and API for data integration.
