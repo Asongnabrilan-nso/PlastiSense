@@ -1,4 +1,4 @@
-Video: `https://youtu.be/B_dy0DAJdtQ`
+[Video: PlastiSense Demo](https://youtu.be/B_dy0DAJdtQ)
 
 # PlastiSense
 
